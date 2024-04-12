@@ -1,0 +1,6 @@
+**/__pycache__/**
+**/venv/**
+**/django/**
+**/migrations/**
+db.sqlite3
+.env
